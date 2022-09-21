@@ -1,5 +1,9 @@
 # <img src="./assets/profile_img.png" width="50"> Hi, I am Md Mobin, [Flutter Developer](https://portfolio-432c8.web.app/#/)  
 
+
+> Experienced Flutter Developer adept in all stages of advanced Flutter development. Knowledgeable in user interface, testing, and debugging processes. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
+
+
 -----
 
 [![Twitter Follow](https://img.shields.io/twitter/url?label=%40Smk_winner&logo=twitter&style=social&url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2Ffollow%2Fhttps%3A%2F%2Ftwitter.com%2FSmk_Winner%2F%3Fstyle%3Dsocial)](https://twitter.com/intent/follow?screen_name=smk_winner)
