@@ -43,7 +43,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:djsmk123@gmail.com)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-smkwinner.vercel.app-58a6ff?style=flat-square)](https://smkwinner.vercel.app)
-[![Resume](https://img.shields.io/badge/Resume-view-bc8cff?style=flat-square)](./resume.md)
+[![Resume](https://img.shields.io/badge/Resume-view-bc8cff?style=flat-square)](https://smkwinner.vercel.app/resume)
 [![GitHub followers](https://img.shields.io/github/followers/djsmk123?style=flat-square&logo=github&label=followers)](https://github.com/djsmk123)
 
 <br>
