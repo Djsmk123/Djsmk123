@@ -138,36 +138,6 @@ More on <a href="https://medium.com/@djsmk123"><b>Medium</b></a> and <a href="ht
 <img src="./assets/top-langs.svg" width="100%" alt="Primary language across repositories: Dart 54, JavaScript 11, C++ 9, Kotlin 7, TypeScript 3, Python 3, Java 2, Go 2">
 </div>
 
-<details open>
-<summary><b>Hand-drawn, one dash at a time</b></summary>
-
-```text
-|\                       /-------------------\      /-------------/\
-| \------\               |                   |      |            /  \
-|  \      \------\       |     |     ----    |      |           /    \
-|   >   Dart      >      |     |    |        |      |           \    /
-|  /      /------/       |     |     ---     |      |            \  /
-| /------/               |     |        |    |      \-------------\/
-|/                       |  ---/    ----     |
-                         \-------------------/
-
-        Dart                   JavaScript                 Kotlin
-
-  /------\                            /-----\       /-----\             /-------\
- /        \      |         |         /       \     /       \           |  o      |
-|              --|--     --|--      |             |         |        /-/         |
-|                |         |        |    ---\     |         |       |    /-------/
- \        /                          \       \     \       /        |   |
-  \------/                            \-----/       \-----/         |    \-------\
-                                                                     \-\         |
-                                                                       |      o  |
-                                                                        \-------/
-
-             C++                                Go                      Python
-```
-
-</details>
-
 <br>
 
 <h2 align="center">📊 GitHub Stats</h2>
