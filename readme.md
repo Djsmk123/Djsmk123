@@ -59,19 +59,15 @@ experiences in Flutter used by millions. I publish packages, write about
 Flutter, gRPC and Go, and occasionally roast resumes.
 ```
 
-<div align="center">
-<img src="./assets/impact.svg" width="100%" alt="2.7M+ sessions impacted, 11.13M+ card tokenizations, 35.16M+ transactions handled, 48-75% performance gains">
-</div>
-
 <br>
 
 <h2 align="center">💼 Experience</h2>
 
 <table width="100%">
-<tr><th align="left">Role</th><th align="left">Company</th><th align="left">When</th><th align="left">Highlight</th></tr>
-<tr><td>Software Engineer</td><td><b>CRED</b>, Bengaluru</td><td>Nov 2025 – present</td><td>Migrated CRED's 3rd most-visited page from WebView to Flutter in 9 days — Android P90 7s → 1.5s across 2.7M+ sessions</td></tr>
-<tr><td>Software Engineer</td><td><b>INDmoney</b>, Gurugram</td><td>May – Jul 2025</td><td>Flutter-to-native iOS integration layer: 20+ embedded Flutter widgets across 100K+ MAUs; UI rollout cycles 2 days → under 4 hours</td></tr>
-<tr><td>Software Engineer</td><td><b>Perpetuum Innovations</b>, Gurugram</td><td>Feb 2024 – Apr 2025</td><td>Shipped 3 production apps; Spilll rated 4.6/5 with AI workflows (Whisper + prompt engineering)</td></tr>
+<tr><th align="left">Role</th><th align="left">Company</th><th align="left">When</th></tr>
+<tr><td>Software Engineer</td><td><b>CRED</b>, Bengaluru</td><td>Nov 2025 – present</td></tr>
+<tr><td>Software Engineer</td><td><b>INDmoney</b>, Gurugram</td><td>May – Jul 2025</td></tr>
+<tr><td>Software Engineer</td><td><b>Perpetuum Innovations</b>, Gurugram</td><td>Feb 2024 – Apr 2025</td></tr>
 </table>
 
 <br>
