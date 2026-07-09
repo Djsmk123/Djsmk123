@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="./assets/profile_img.png" width="42"> Md Mobin
+# <img src="https://avatars.githubusercontent.com/u/74850678?v=4" width="42"> Md Mobin
 
 **Flutter Developer · Package Author · Tech Writer**
 
