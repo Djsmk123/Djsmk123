@@ -2,7 +2,39 @@
 
 <img src="./assets/hero.svg" width="100%" alt="Md Mobin — Flutter Developer · Package Author · Tech Writer">
 
-<br>
+<table>
+<tr><td>
+<pre>⠀⠀⠀⠀⠀⠀⠀⠀⢠⠰⠔⠰⠐⠄⡀
+⠀⠀⠀⠀⠀⠀⠀⡰⡃⢀⣴⣴⣶⢴⣀
+⠀⠀⠀⠀⠀⠀⠀⠘⠆⡾⣿⣿⣯⢯⢎⡎⡆
+⠀⠀⠀⠀⠀⠀⠀⠀⡀⢽⣿⢏⡈⢬⣈⠀⢈
+⠀⠀⠀⠀⠀⠀⠀⢸⢿⣽⣿⣿⡾⡿⡟⠄⢬
+⠀⠀⠀⠀⠀⠀⠀⠈⠻⢿⣿⣿⡻⣫⡃⠀⡣
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢽⣻⢺⡻⣗⣥⠸
+⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⣿⣳⣽⣾⣵⡸⡀
+⠀⠀⠀⡀⣀⢤⢰⢜⢎⢎⢟⢿⣿⣿⣿⠏⠎
+⠀⢀⡖⣝⢜⢎⢎⠪⡣⡓⣕⣽⣿⡿⡽⠀⡀
+⠀⢮⡺⡸⡸⡈⠪⡪⡪⣣⢺⠝⠏⠠⡐⠄⡂
+⠀⣇⢯⡪⣪⢀⠀⢣⡣⡣⡃⠁⠀⠨⡪
+⠀⡪⣞⢎⢮⢪⢠⡪⡊⠊⠀⠀⠀⠀⠁
+⠀⢪⡳⡹⣸⢸⢸⠘⢀
+⠀⠰⡑⢝⢜⢘⠀⠀⠐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀
+⠀⠈⠠⡣⠐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠠⠀⠑
+⠀⠀⢈⡎
+⠀⠀⠐⢯⣳⠤
+⠀⠀⠀⠀⡃
+⠀⠀⠀⠰⠱⡠⡠⠰
+⠀⠀⠀⢀⡈⡄⡑⠐⠄⢄⠀⡀
+⠀⠀⠀⠀⡕⠑⠱⠑⠔
+⠀⠀⠀⠨⡪⢪⢠⢀⢀
+⠀⠀⠀⠐⠑⠔
+⠀⠀⠀⡐
+⠀⠀⠀⡊</pre>
+</td></tr>
+</table>
+<sub>self-portrait, drawn in braille dots — made with my <a href="https://github.com/Djsmk123/image-to-dot-text">image → dot text</a> converter</sub>
+
+<br><br>
 
 [![X/Twitter](https://img.shields.io/badge/@smk__winner-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/smk_winner)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-mobin-bb928820b/)
@@ -57,27 +89,28 @@ write about Flutter, gRPC and Go, and occasionally roast resumes.
 <table width="100%">
 <tr>
 <td width="50%" align="center">
-<a href="https://github.com/Djsmk123/Wtf-is-grpc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=djsmk123&repo=Wtf-is-grpc&theme=github_dark&show_icons=true" alt="Wtf-is-grpc"></a>
+<a href="https://github.com/Djsmk123/Wtf-is-grpc"><img src="./assets/card-Wtf-is-grpc.svg" alt="Wtf-is-grpc — 18 stars, Dart"></a>
 </td>
 <td width="50%" align="center">
-<a href="https://github.com/Djsmk123/Flutter_Resources"><img src="https://github-readme-stats.vercel.app/api/pin/?username=djsmk123&repo=Flutter_Resources&theme=github_dark&show_icons=true" alt="Flutter_Resources"></a>
+<a href="https://github.com/Djsmk123/Flutter_Resources"><img src="./assets/card-Flutter_Resources.svg" alt="Flutter_Resources — 14 stars"></a>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
-<a href="https://github.com/Djsmk123/firebase_app_distribution_example"><img src="https://github-readme-stats.vercel.app/api/pin/?username=djsmk123&repo=firebase_app_distribution_example&theme=github_dark&show_icons=true" alt="firebase_app_distribution_example"></a>
+<a href="https://github.com/Djsmk123/firebase_app_distribution_example"><img src="./assets/card-firebase_app_distribution_example.svg" alt="firebase_app_distribution_example — 11 stars, Dart"></a>
 </td>
 <td width="50%" align="center">
-<a href="https://github.com/Djsmk123/roast-my-resume"><img src="https://github-readme-stats.vercel.app/api/pin/?username=djsmk123&repo=roast-my-resume&theme=github_dark&show_icons=true" alt="roast-my-resume"></a>
+<a href="https://github.com/Djsmk123/roast-my-resume"><img src="./assets/card-roast-my-resume.svg" alt="roast-my-resume — 9 stars, TypeScript"></a>
 </td>
 </tr>
 </table>
 
-<details>
+<details open>
 <summary><b>➕ More projects</b></summary>
 <br>
 <table width="100%">
 <tr><th align="left">Project</th><th align="left">What it is</th><th>⭐</th></tr>
+<tr><td><a href="https://github.com/Djsmk123/image-to-dot-text">image-to-dot-text</a></td><td>Convert images to braille dot-text art — web UI + Python CLI</td><td align="center">new</td></tr>
 <tr><td><a href="https://github.com/Djsmk123/dart_json_annotations">dart_json_annotations</a></td><td>High-performance Dart JSON serialization codegen, powered by Rust</td><td align="center">3</td></tr>
 <tr><td><a href="https://github.com/Djsmk123/passkey_example_flutter">passkey_example_flutter</a></td><td>Passkeys in Flutter with full server-side implementation</td><td align="center">2</td></tr>
 <tr><td><a href="https://github.com/Djsmk123/flutter_pagination">flutter_pagination</a></td><td>Flutter pagination using Bloc</td><td align="center">3</td></tr>
@@ -100,6 +133,10 @@ More on <a href="https://medium.com/@djsmk123"><b>Medium</b></a> and <a href="ht
 <br>
 
 <h2 align="center">🔤 Top Languages</h2>
+
+<div align="center">
+<img src="./assets/top-langs.svg" width="100%" alt="Primary language across repositories: Dart 54, JavaScript 11, C++ 9, Kotlin 7, TypeScript 3, Python 3, Java 2, Go 2">
+</div>
 
 <details open>
 <summary><b>Hand-drawn, one dash at a time</b></summary>
@@ -129,85 +166,6 @@ More on <a href="https://medium.com/@djsmk123"><b>Medium</b></a> and <a href="ht
              C++                                Go                      Python
 ```
 
-```console
-$ gh repos --group-by=primary-language
-
- Dart         ------------------------------------------------------  54
- JavaScript   -----------                                             11
- C++          ---------                                                9
- Kotlin       -------                                                  7
- TypeScript   ---                                                      3
- Python       ---                                                      3
- Java         --                                                       2
- Go           --                                                       2
-```
-
-</details>
-
-<details>
-<summary><b>⣿ Self-portrait, drawn in braille dots</b></summary>
-
-```text
-
-
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢄⢄⢔⢄⢄⢄⢀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⡦⡳⠹⠑⠁⠁⠃⠈⠐⠕⠕⠠⡀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢰⢕⠅⠀⠀⠀⢀⢀⣀⢄⢄⢀⢀⠈
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡢⣳⠁⠀⠀⢠⣼⣾⣿⣟⣿⡯⣟⡾⣜⡄⡀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢪⢪⡣⡁⢠⣿⣿⣿⣿⣿⣿⡽⣯⣻⣪⢺⢸⢐⢄
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⠑⠱⢱⢜⣿⣿⣿⣿⣿⣷⣟⣗⡧⣳⢕⣇⢇⢇⣇
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠐⢽⣽⣿⣿⣿⢻⠺⠫⠣⠋⢎⢗⠑⠁⠑⠕
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⠁⢵⣿⣿⣿⢺⡑⡀⠀⢐⣼⣆⡀⠀⠀⠀⢠
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣞⣶⣼⢸⣿⣿⣷⣿⣽⣱⣠⣾⣿⣿⣶⠀⠀⠐⢜
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢘⣾⢟⣿⣽⣿⣿⣿⣿⣿⡾⣟⣾⡿⠿⡏⠧⡀⢐⢜⠄
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣷⣿⣷⢿⣿⢿⣿⣯⣿⣳⣿⡵⣎⢉⠀⢀⢐⣝⠂
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⠻⣻⣿⣿⣿⣷⣿⡿⠝⡗⣏⣃⠃⠀⠂⠱⡕
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢽⣟⣯⣿⣯⡿⣞⣵⣟⡟⡊⠑⠈⢄⢌⠇
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣽⢽⣺⢯⣟⢿⣺⡷⣟⢗⢅⠀⢇⠇
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢐⣿⣷⢧⣣⢣⢳⣷⢑⣵⣟⢟⠆⠦
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢐⣿⣿⣿⢾⣳⣳⣿⣿⣷⢵⢕⢴⢔⡕
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⢔⣜⢿⣿⣿⡿⣿⣟⣿⣿⣿⣿⣷⣿⢮⡺⡜⡄
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⢠⠤⡲⣹⢸⢱⢪⢣⡫⡻⢿⢿⣽⣿⣿⣿⣿⣯⣿⣿⡳⠹⡪⡂
-⠀⠀⠀⠀⠀⢀⡠⣔⢖⢵⢝⡜⣜⢕⢝⢜⢵⡹⡸⡜⡜⡜⡜⡔⣿⣿⣿⣿⣿⣿⣻⡝⢂⠄⠈
-⠀⠀⠀⠀⡰⣪⡚⡮⡝⡎⡇⡧⡣⣳⢁⢣⢳⢱⡣⡣⡫⡪⡪⣪⣿⣿⣿⣿⣿⣽⡳⡑
-⠀⠀⠀⢰⢝⢮⢺⢸⢸⠪⡎⠪⡪⡪⡣⠐⢕⢇⢗⢕⠡⢫⣪⣿⣿⣿⣿⣻⡺⡪⠃⡠⠀⠐⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀
-⠀⠀⠀⢽⡹⣪⡣⡳⡱⡱⡩⡢⠘⠌⡽⡀⢕⢕⢕⢕⡅⡧⣫⢻⢿⣿⠳⠁⠀⡀⢔⠜⠀⡸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀
-⠀⠀⠨⡳⡝⣎⢮⡪⡪⡪⡊⠪⡀⠨⢪⢆⠣⡣⡣⣣⢫⡪⡎⡎⠎⠈⠀⠀⡪⡪⢂⠕⠀⢌
-⠀⠀⢨⡫⡞⣎⢮⢪⡡⡃⡣⠠⠨⠀⠡⡣⢁⢇⢧⢳⢱⢱⠑⠁⠀⠀⠀⠀⡪⡪⡢⠃
-⠀⠀⢐⣝⢞⣜⢎⣇⢏⡎⣎⢖⠄⠀⠈⢜⢜⢵⢝⢜⡜⡜⠀⠀⠀⠀⠀⠀⠜⡜⠔
-⠀⠀⠠⡳⣝⢼⢕⣕⢧⢫⢪⠪⡊⠀⢀⡰⡝⡌⠎⡎⠊⠀⠀⠀⠀⠀⠀⠀⠈⡪⠂
-⠀⠀⠀⢯⢮⡳⡣⡧⡳⡱⡱⡱⡡⡢⡇⡗⡝⡜⠀⠀⠀⠀⠀⠀⠀⠐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠨
-⠀⠀⠀⡳⣳⡹⡕⡧⡳⡩⡪⣪⢺⢸⢱⢹⢘⠈⡀
-⠀⠀⠀⢝⢮⢎⡗⢕⡱⡣⡇⡇⡗⠕⢕⠕⠁⠀⡂
-⠀⠀⠀⠵⡝⢊⢜⢼⢸⡱⢕⠕⡍⠆⠑⠀⠀⢐⠄
-⠀⠀⠀⢘⢢⠱⠨⡪⡢⡣⡃⠈⡪⠀⠀⠀⠀⠂⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⡀
-⠀⠀⠀⠐⠇⢘⠈⢎⡂⢘⠄⠀⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⢌⢪⠀⠁⠁
-⠀⠀⠀⠀⠡⢐⢅⠱⣐⠀⡂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⡀⠐⠄⠈⠀⠐⠁
-⠀⠀⠀⠀⠀⠑⡕⡌⢖⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠐
-⠀⠀⠀⠀⠀⠀⣱⡑⠁
-⠀⠀⠀⠀⠀⠀⡽⣗⢦⣀
-⠀⠀⠀⠀⠀⠀⠙⣵⢿⣹⡯⡗⡄
-⠀⠀⠀⠀⠀⠀⠈⠙⢴⢯⠋⠈
-⠀⠀⠀⠀⠀⠀⠀⠀⠨⣂
-⠀⠀⠀⠀⠀⠀⠀⠀⡜⡔⡁
-⠀⠀⠀⠀⠀⠀⠀⢘⢜⡜⡜⢔⢄⢄⢄⢆⢆
-⠀⠀⠀⠀⠀⠀⠀⠀⠈⢈⠊⢎⢊⢀⠁
-⠀⠀⠀⠀⠀⠀⠀⠀⡠⠃⠁⡀⡈⠂⠇⠕⢔⢄⢀
-⠀⠀⠀⠀⠀⠀⠀⢔⢕⢆⢏⡪⡪⡠⡀⠀⠀⠀⠑⠅⠃⠐⠄⠔
-⠀⠀⠀⠀⠀⠀⠀⠀⡑⡕⠕⠕⢕⢕⢕⢕⢕⢔⢄⠢
-⠀⠀⠀⠀⠀⠀⠀⠀⡪⡪⢢⠂⠄⡀⠀⠀⠁⠈
-⠀⠀⠀⠀⠀⠀⠀⢐⢕⢕⠔⡕⡰⢠⢀
-⠀⠀⠀⠀⠀⠀⠀⠐⠕⠅⡇⠕⠜⠌⠂⠇⠕⡰⠠⢀⢀
-⠀⠀⠀⠀⠀⠀⠀⢨⠊⠜⢐⠄⢄
-⠀⠀⠀⠀⠀⠀⠀⠐⠠⠂⠑⠑⠑
-⠀⠀⠀⠀⠀⠀⠠⡠⡠⠢⠂
-⠀⠀⠀⠀⠀⠀⢐⢔⢄
-⠀⠀⠀⠀⠀⠀⢐⠱
-⠀⠀⠀⠀⠀⠀⢐⠑
-```
-
-<sub>Made with my <a href="https://github.com/Djsmk123/image-to-dot-text">image → dot text</a> converter: grayscale → autocontrast → gamma → Floyd–Steinberg dither → 2×4 braille cells.</sub>
-
 </details>
 
 <br>
@@ -215,16 +173,7 @@ $ gh repos --group-by=primary-language
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=djsmk123&count_private=true&theme=github_dark&show_icons=true">
-  <img alt="Md Mobin's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=djsmk123&count_private=true&show_icons=true">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=djsmk123&theme=github_dark&layout=compact">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djsmk123&layout=compact">
-</picture>
-
+<img src="./assets/stats.svg" width="100%" alt="122+ stars earned, 81 followers, 140 public repos, 39 forks of my work">
 </div>
 
 <br>

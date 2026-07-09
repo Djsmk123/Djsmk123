@@ -1,0 +1,34 @@
+<svg width="900" height="374" viewBox="0 0 900 374" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Top languages by primary language across repositories">
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="0%" r="90%">
+      <stop offset="0%" stop-color="#1f2a44"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </radialGradient>
+  </defs>
+  <rect x="1" y="1" width="898" height="372" rx="16" fill="url(#glow)" stroke="#30363d" stroke-width="2"/>
+  <text x="32" y="44" font-family="SF Mono, Menlo, Consolas, monospace" font-size="17" fill="#3fb950">$ gh repos --group-by=primary-language</text>
+  <text x="136" y="93" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#e6edf3">Dart</text>
+  <rect x="150" y="78" width="620" height="20" rx="6" fill="#00B4AB"><animate attributeName="width" values="0;0;620" keyTimes="0;0.000;1" dur="0.90s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;0.2 0.8 0.2 1"/></rect>
+  <text x="782" y="93" font-family="SF Mono, Menlo, Consolas, monospace" font-size="14" fill="#8b949e">54 repos<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.583;1" dur="1.20s" begin="0.1s" fill="freeze"/></text>
+  <text x="136" y="127" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#e6edf3">JavaScript</text>
+  <rect x="150" y="112" width="126" height="20" rx="6" fill="#f1e05a"><animate attributeName="width" values="0;0;126" keyTimes="0;0.143;1" dur="1.05s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;0.2 0.8 0.2 1"/></rect>
+  <text x="288" y="127" font-family="SF Mono, Menlo, Consolas, monospace" font-size="14" fill="#8b949e">11 repos<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.630;1" dur="1.35s" begin="0.1s" fill="freeze"/></text>
+  <text x="136" y="161" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#e6edf3">C++</text>
+  <rect x="150" y="146" width="103" height="20" rx="6" fill="#f34b7d"><animate attributeName="width" values="0;0;103" keyTimes="0;0.250;1" dur="1.20s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;0.2 0.8 0.2 1"/></rect>
+  <text x="265" y="161" font-family="SF Mono, Menlo, Consolas, monospace" font-size="14" fill="#8b949e">9 repos<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.667;1" dur="1.50s" begin="0.1s" fill="freeze"/></text>
+  <text x="136" y="195" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#e6edf3">Kotlin</text>
+  <rect x="150" y="180" width="80" height="20" rx="6" fill="#A97BFF"><animate attributeName="width" values="0;0;80" keyTimes="0;0.333;1" dur="1.35s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;0.2 0.8 0.2 1"/></rect>
+  <text x="242" y="195" font-family="SF Mono, Menlo, Consolas, monospace" font-size="14" fill="#8b949e">7 repos<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.697;1" dur="1.65s" begin="0.1s" fill="freeze"/></text>
+  <text x="136" y="229" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#e6edf3">TypeScript</text>
+  <rect x="150" y="214" width="34" height="20" rx="6" fill="#3178c6"><animate attributeName="width" values="0;0;34" keyTimes="0;0.400;1" dur="1.50s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;0.2 0.8 0.2 1"/></rect>
+  <text x="196" y="229" font-family="SF Mono, Menlo, Consolas, monospace" font-size="14" fill="#8b949e">3 repos<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.722;1" dur="1.80s" begin="0.1s" fill="freeze"/></text>
+  <text x="136" y="263" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#e6edf3">Python</text>
+  <rect x="150" y="248" width="34" height="20" rx="6" fill="#3572A5"><animate attributeName="width" values="0;0;34" keyTimes="0;0.455;1" dur="1.65s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;0.2 0.8 0.2 1"/></rect>
+  <text x="196" y="263" font-family="SF Mono, Menlo, Consolas, monospace" font-size="14" fill="#8b949e">3 repos<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.744;1" dur="1.95s" begin="0.1s" fill="freeze"/></text>
+  <text x="136" y="297" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#e6edf3">Java</text>
+  <rect x="150" y="282" width="22" height="20" rx="6" fill="#b07219"><animate attributeName="width" values="0;0;22" keyTimes="0;0.500;1" dur="1.80s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;0.2 0.8 0.2 1"/></rect>
+  <text x="184" y="297" font-family="SF Mono, Menlo, Consolas, monospace" font-size="14" fill="#8b949e">2 repos<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.762;1" dur="2.10s" begin="0.1s" fill="freeze"/></text>
+  <text x="136" y="331" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#e6edf3">Go</text>
+  <rect x="150" y="316" width="22" height="20" rx="6" fill="#00ADD8"><animate attributeName="width" values="0;0;22" keyTimes="0;0.538;1" dur="1.95s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;0.2 0.8 0.2 1"/></rect>
+  <text x="184" y="331" font-family="SF Mono, Menlo, Consolas, monospace" font-size="14" fill="#8b949e">2 repos<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.778;1" dur="2.25s" begin="0.1s" fill="freeze"/></text>
+</svg>

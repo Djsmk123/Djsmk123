@@ -1,0 +1,23 @@
+<svg width="440" height="150" viewBox="0 0 440 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Flutter_Resources">
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="0%" r="90%">
+      <stop offset="0%" stop-color="#1f2a44"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </radialGradient>
+  </defs>
+  <rect x="1" y="1" width="438" height="148" rx="12" fill="url(#glow)" stroke="#30363d" stroke-width="2"/>
+  <text x="28" y="42" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#58a6ff">Flutter_Resources</text>
+  <rect x="28" y="52" width="120" height="2" rx="1" fill="#58a6ff"><animate attributeName="width" values="0;0;120" keyTimes="0;0.200;1" dur="1.00s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;0.2 0.8 0.2 1"/></rect>
+<text x="28" y="78" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#8b949e">Curated Flutter learning resources, beginner to</text><text x="28" y="100" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#8b949e">advanced.</text>
+  <circle cx="34" cy="124" r="6" fill="#8b949e">
+    <animate attributeName="opacity" values="1;0.4;1" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <text x="46" y="129" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#e6edf3">Markdown</text>
+  <path transform="translate(150,115) scale(0.8)" fill="#e3b341" d="M8 0l2.47 5.01L16 5.82l-4 3.9.94 5.5L8 12.62l-4.94 2.6L4 9.72l-4-3.9 5.53-.81z"/>
+  <text x="168" y="129" font-family="SF Mono, Menlo, Consolas, monospace" font-size="13" fill="#e6edf3">14</text>
+  <g transform="translate(210,112)" fill="none" stroke="#8b949e" stroke-width="1.6">
+    <circle cx="4" cy="3" r="2.4"/><circle cx="12" cy="3" r="2.4"/><circle cx="8" cy="14" r="2.4"/>
+    <path d="M4 5.5v2a2 2 0 0 0 2 2h4a2 2 0 0 0 2-2v-2M8 9.5v2"/>
+  </g>
+  <text x="230" y="129" font-family="SF Mono, Menlo, Consolas, monospace" font-size="13" fill="#e6edf3">3</text>
+</svg>
