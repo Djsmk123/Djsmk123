@@ -206,7 +206,7 @@ $ gh repos --group-by=primary-language
 ⠀⠀⠀⠀⠀⠀⢐⠑
 ```
 
-<sub>Made with my <a href="https://github.com/Djsmk123">image → dot text</a> converter: grayscale → autocontrast → gamma → Floyd–Steinberg dither → 2×4 braille cells.</sub>
+<sub>Made with my <a href="https://github.com/Djsmk123/image-to-dot-text">image → dot text</a> converter: grayscale → autocontrast → gamma → Floyd–Steinberg dither → 2×4 braille cells.</sub>
 
 </details>
 
